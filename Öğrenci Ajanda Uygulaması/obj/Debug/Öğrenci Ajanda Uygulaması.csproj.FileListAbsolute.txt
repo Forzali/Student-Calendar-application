@@ -1,0 +1,10 @@
+C:\Users\osmn_\Source\Repos\Öğrenci Ajanda Uygulaması\Öğrenci Ajanda Uygulaması\bin\Debug\Öğrenci Ajanda Uygulaması.exe.config
+C:\Users\osmn_\Source\Repos\Öğrenci Ajanda Uygulaması\Öğrenci Ajanda Uygulaması\bin\Debug\Öğrenci Ajanda Uygulaması.exe
+C:\Users\osmn_\Source\Repos\Öğrenci Ajanda Uygulaması\Öğrenci Ajanda Uygulaması\bin\Debug\Öğrenci Ajanda Uygulaması.pdb
+C:\Users\osmn_\Source\Repos\Öğrenci Ajanda Uygulaması\Öğrenci Ajanda Uygulaması\obj\Debug\Öğrenci Ajanda Uygulaması.csprojAssemblyReference.cache
+C:\Users\osmn_\Source\Repos\Öğrenci Ajanda Uygulaması\Öğrenci Ajanda Uygulaması\obj\Debug\Öğrenci_Ajanda_Uygulaması.Form1.resources
+C:\Users\osmn_\Source\Repos\Öğrenci Ajanda Uygulaması\Öğrenci Ajanda Uygulaması\obj\Debug\Öğrenci_Ajanda_Uygulaması.Properties.Resources.resources
+C:\Users\osmn_\Source\Repos\Öğrenci Ajanda Uygulaması\Öğrenci Ajanda Uygulaması\obj\Debug\Öğrenci Ajanda Uygulaması.csproj.GenerateResource.cache
+C:\Users\osmn_\Source\Repos\Öğrenci Ajanda Uygulaması\Öğrenci Ajanda Uygulaması\obj\Debug\Öğrenci Ajanda Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\osmn_\Source\Repos\Öğrenci Ajanda Uygulaması\Öğrenci Ajanda Uygulaması\obj\Debug\Öğrenci Ajanda Uygulaması.exe
+C:\Users\osmn_\Source\Repos\Öğrenci Ajanda Uygulaması\Öğrenci Ajanda Uygulaması\obj\Debug\Öğrenci Ajanda Uygulaması.pdb
